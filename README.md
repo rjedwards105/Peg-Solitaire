@@ -1,0 +1,3 @@
+# Peg-Solitaire
+
+Peg solitaire is a board game (or puzzle) in which a single player takes turns removing pegs from a board until either: they have removed all but the final peg to win the game, or they have lost because there are no legal moves left for them to make despite more than one peg remaining on the board.  The number of pegs and board-shapes vary, but these pegs are always set into holes arranged in a grid on the board.  A legal move involves jumping one peg over a neighboring peg to rest in a hole on the other side, and then removing the peg that was jumped over.  Diagonal jumps are not allowed.  In the following examples, an at sign (@) is used to represent the position of pegs, and a dash (-) is used to represent the position of an empty holes.
